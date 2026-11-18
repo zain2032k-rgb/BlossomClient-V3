@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "id": "blossom",
+  "version": "${version}",
+  "name": "Blossom Client",
+  "description": "A pastel blossom-themed client UI and sound experience for Minecraft 1.21.11.",
+  "authors": ["Blossom Client contributors"],
+  "license": "GPL-3.0-only",
+  "environment": "client",
+  "entrypoints": {
+    "client": ["com.blossom.client.BlossomClient"]
+  },
+  "mixins": ["blossom.mixins.json"],
+  "depends": {
+    "fabricloader": ">=0.18.2",
+    "fabric-api": "*",
+    "minecraft": "1.21.11",
+    "java": ">=21"
+  }
+}

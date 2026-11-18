@@ -1,0 +1,218 @@
+{
+  "menu_theme": {
+    "subtitle": "subtitles.blossom.menu_theme",
+    "sounds": [
+      {
+        "name": "blossom:menu_theme",
+        "stream": true
+      }
+    ]
+  },
+  "ui.glide_check_off": {
+    "subtitle": "subtitles.blossom.ui_glide_check_off",
+    "sounds": [
+      {
+        "name": "blossom:ui/glide_check_off",
+        "stream": false
+      }
+    ]
+  },
+  "ui.glide_check_on": {
+    "subtitle": "subtitles.blossom.ui_glide_check_on",
+    "sounds": [
+      {
+        "name": "blossom:ui/glide_check_on",
+        "stream": false
+      }
+    ]
+  },
+  "ui.glide_click": {
+    "subtitle": "subtitles.blossom.ui_glide_click",
+    "sounds": [
+      {
+        "name": "blossom:ui/glide_click",
+        "stream": false
+      }
+    ]
+  },
+  "ui.glide_close": {
+    "subtitle": "subtitles.blossom.ui_glide_close",
+    "sounds": [
+      {
+        "name": "blossom:ui/glide_close",
+        "stream": false
+      }
+    ]
+  },
+  "ui.glide_hover": {
+    "subtitle": "subtitles.blossom.ui_glide_hover",
+    "sounds": [
+      {
+        "name": "blossom:ui/glide_hover",
+        "stream": false
+      }
+    ]
+  },
+  "ui.glide_off": {
+    "subtitle": "subtitles.blossom.ui_glide_off",
+    "sounds": [
+      {
+        "name": "blossom:ui/glide_off",
+        "stream": false
+      }
+    ]
+  },
+  "ui.glide_on": {
+    "subtitle": "subtitles.blossom.ui_glide_on",
+    "sounds": [
+      {
+        "name": "blossom:ui/glide_on",
+        "stream": false
+      }
+    ]
+  },
+  "ui.glide_open": {
+    "subtitle": "subtitles.blossom.ui_glide_open",
+    "sounds": [
+      {
+        "name": "blossom:ui/glide_open",
+        "stream": false
+      }
+    ]
+  },
+  "ui.glide_type": {
+    "subtitle": "subtitles.blossom.ui_glide_type",
+    "sounds": [
+      {
+        "name": "blossom:ui/glide_type",
+        "stream": false
+      }
+    ]
+  },
+  "ui.pulse_check": {
+    "subtitle": "subtitles.blossom.ui_pulse_check",
+    "sounds": [
+      {
+        "name": "blossom:ui/pulse_check",
+        "stream": false
+      }
+    ]
+  },
+  "ui.pulse_close": {
+    "subtitle": "subtitles.blossom.ui_pulse_close",
+    "sounds": [
+      {
+        "name": "blossom:ui/pulse_close",
+        "stream": false
+      }
+    ]
+  },
+  "ui.pulse_off": {
+    "subtitle": "subtitles.blossom.ui_pulse_off",
+    "sounds": [
+      {
+        "name": "blossom:ui/pulse_off",
+        "stream": false
+      }
+    ]
+  },
+  "ui.pulse_on": {
+    "subtitle": "subtitles.blossom.ui_pulse_on",
+    "sounds": [
+      {
+        "name": "blossom:ui/pulse_on",
+        "stream": false
+      }
+    ]
+  },
+  "ui.pulse_open": {
+    "subtitle": "subtitles.blossom.ui_pulse_open",
+    "sounds": [
+      {
+        "name": "blossom:ui/pulse_open",
+        "stream": false
+      }
+    ]
+  },
+  "ui.pulse_swish": {
+    "subtitle": "subtitles.blossom.ui_pulse_swish",
+    "sounds": [
+      {
+        "name": "blossom:ui/pulse_swish",
+        "stream": false
+      }
+    ]
+  },
+  "ui.silk_close": {
+    "subtitle": "subtitles.blossom.ui_silk_close",
+    "sounds": [
+      {
+        "name": "blossom:ui/silk_close",
+        "stream": false
+      }
+    ]
+  },
+  "ui.silk_hover": {
+    "subtitle": "subtitles.blossom.ui_silk_hover",
+    "sounds": [
+      {
+        "name": "blossom:ui/silk_hover",
+        "stream": false
+      }
+    ]
+  },
+  "ui.silk_nav": {
+    "subtitle": "subtitles.blossom.ui_silk_nav",
+    "sounds": [
+      {
+        "name": "blossom:ui/silk_nav",
+        "stream": false
+      }
+    ]
+  },
+  "ui.silk_off": {
+    "subtitle": "subtitles.blossom.ui_silk_off",
+    "sounds": [
+      {
+        "name": "blossom:ui/silk_off",
+        "stream": false
+      }
+    ]
+  },
+  "ui.silk_on": {
+    "subtitle": "subtitles.blossom.ui_silk_on",
+    "sounds": [
+      {
+        "name": "blossom:ui/silk_on",
+        "stream": false
+      }
+    ]
+  },
+  "ui.silk_open": {
+    "subtitle": "subtitles.blossom.ui_silk_open",
+    "sounds": [
+      {
+        "name": "blossom:ui/silk_open",
+        "stream": false
+      }
+    ]
+  },
+  "ui.silk_select": {
+    "subtitle": "subtitles.blossom.ui_silk_select",
+    "sounds": [
+      {
+        "name": "blossom:ui/silk_select",
+        "stream": false
+      }
+    ]
+  },
+  "ui.silk_type": {
+    "subtitle": "subtitles.blossom.ui_silk_type",
+    "sounds": [
+      {
+        "name": "blossom:ui/silk_type",
+        "stream": false
+      }
+    ]
+  }
+}
